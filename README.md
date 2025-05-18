@@ -1,0 +1,2 @@
+# ginSimpleCurrencyExchange-Platform
+基于gin的前后端分离货币兑换简易平台
